@@ -1,0 +1,1 @@
+lokasi file CMS yang bisa diakses oleh web server.

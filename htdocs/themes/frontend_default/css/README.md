@@ -1,0 +1,1 @@
+css untuk tema default frontend diletakkan disini.

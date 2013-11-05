@@ -1,0 +1,1 @@
+File javascript untuk tema default admin diletakkan disini.

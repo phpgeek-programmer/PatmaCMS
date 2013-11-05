@@ -1,0 +1,1 @@
+File gambar default yang digunakan oleh CMS diletakkan disini.

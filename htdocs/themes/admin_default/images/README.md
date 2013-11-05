@@ -1,0 +1,1 @@
+file gambar untuk tema default admin diletakkan disini.

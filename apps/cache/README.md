@@ -1,0 +1,1 @@
+Lokasi file cache yang digenerate oleh cms saat dijalankan akan ditaruh disini.
