@@ -1,0 +1,4 @@
+database : patmacms_local
+user database : patmacms
+password database : patmacms
+
