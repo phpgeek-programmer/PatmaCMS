@@ -31,7 +31,7 @@
 
 session_start();
 
-// include file yang berisi fungsi-fungsi untuk memanipulasi database
+// include file yang berisi fungsi-fungsi untuk memanipulasi
 require dirname(__FILE__).'/database.php';
 
 /**

@@ -35,4 +35,7 @@
  * -------------------------------------------------------------------
  */
 
-
+/**
+ * Theme halaman admin yang aktif
+ */
+$themeAdminActive = "admin_default";

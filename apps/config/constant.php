@@ -29,6 +29,14 @@
  * @since      File available since Release 0.0.1
  */
 
+/*
+ * ------------------------------------------------------------------
+ * set page uri for administrator area
+ * ------------------------------------------------------------------
+ */
+
+define(ADMINISTRATOR_PAGE, "administrator");
+
 
 /*
  * -------------------------------------------------------------------
@@ -49,7 +57,7 @@ define(SYSTEM_CORE_PATH, SYSTEM_PATH . DIRECTORY_SEPARATOR . "core");
 
 /*
  * -------------------------------------------------------------------
- *  set constant for system path
+ *  set constant for apps path
  * -------------------------------------------------------------------
  */
 
@@ -63,3 +71,17 @@ define(APPS_CONFIG_PATH, APPS_PATH . DIRECTORY_SEPARATOR . "config");
  */
 define(APPS_LIBRARIES_PATH, APPS_PATH . DIRECTORY_SEPARATOR . "libraries");
 
+/**
+ * Lokasi direktori source
+ */
+define(APPS_SOURCE_PATH, APPS_PATH . DIRECTORY_SEPARATOR . "source");
+
+/**
+ * Lokasi direktori source admin
+ */
+define(APPS_SOURCE_ADMIN_PATH, APPS_SOURCE_PATH . DIRECTORY_SEPARATOR . "admin");
+
+/**
+ * Lokasi direktori source frontend
+ */
+define(APPS_SOURCE_FRONTEND_PATH, APPS_SOURCE_PATH . DIRECTORY_SEPARATOR . "frontend");
