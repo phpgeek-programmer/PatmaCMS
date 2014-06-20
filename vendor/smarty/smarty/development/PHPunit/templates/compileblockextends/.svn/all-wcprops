@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends
+END
+030_grandchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/030_grandchild.tpl
+END
+009_parent_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/009_parent_nested.tpl
+END
+011_grandchild_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/011_grandchild_nested_include.tpl
+END
+022_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/022_child.tpl
+END
+001_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/001_parent.tpl
+END
+005_child_append_shorttag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/005_child_append_shorttag.tpl
+END
+011_child_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/011_child_nested_include.tpl
+END
+016_child_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/016_child_nested.tpl
+END
+021_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/021_parent.tpl
+END
+010_parent_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/010_parent_nested.tpl
+END
+028_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/028_child.tpl
+END
+015_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/015_parent.tpl
+END
+025_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/025_parent.tpl
+END
+006_parent_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/006_parent_smartychild.tpl
+END
+019_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/019_parent.tpl
+END
+029_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/029_parent.tpl
+END
+018_parent_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/018_parent_nested.tpl
+END
+014_grandchild_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/014_grandchild_smartychild.tpl
+END
+016_grandchild_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/016_grandchild_nested.tpl
+END
+004_child_append.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/004_child_append.tpl
+END
+012_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/012_child.tpl
+END
+030_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/030_parent.tpl
+END
+017_child_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/017_child_nested.tpl
+END
+004_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/004_parent.tpl
+END
+014_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/014_parent.tpl
+END
+024_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/024_parent.tpl
+END
+008_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/008_parent.tpl
+END
+012_grandchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/012_grandchild.tpl
+END
+003_child_prepend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/003_child_prepend.tpl
+END
+028_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/028_parent.tpl
+END
+030_include_2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/030_include_2.tpl
+END
+005_parent_shorttag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/005_parent_shorttag.tpl
+END
+013_grandchild_prepend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/013_grandchild_prepend.tpl
+END
+002_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/002_child.tpl
+END
+021_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/021_child.tpl
+END
+030_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/030_include.tpl
+END
+010_child_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/010_child_nested.tpl
+END
+018_child_nested_hide.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/018_child_nested_hide.tpl
+END
+020_include_root.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_root.tpl
+END
+023_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/023_child.tpl
+END
+020_include_subtemplate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_subtemplate.tpl
+END
+014_child_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/014_child_smartychild.tpl
+END
+003_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/003_parent.tpl
+END
+019_child_nested_hide_autoliteral.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/019_child_nested_hide_autoliteral.tpl
+END
+013_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/013_parent.tpl
+END
+023_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/023_parent.tpl
+END
+007_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/007_parent.tpl
+END
+017_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/017_parent.tpl
+END
+021_grandchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/021_grandchild.tpl
+END
+027_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/027_parent.tpl
+END
+007_child_smartyparent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/007_child_smartyparent.tpl
+END
+020_include_1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_1.tpl
+END
+020_include_2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_2.tpl
+END
+020_include_3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_3.tpl
+END
+017_grandchild_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/017_grandchild_nested.tpl
+END
+008_child_plugin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/008_child_plugin.tpl
+END
+030_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/030_child.tpl
+END
+013_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/013_child.tpl
+END
+015_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/015_child.tpl
+END
+002_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/002_parent.tpl
+END
+015_grandchild_append.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/015_grandchild_append.tpl
+END
+012_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/012_parent.tpl
+END
+006_child_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/006_child_smartychild.tpl
+END
+022_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/022_parent.tpl
+END
+020_include_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/020_include_parent.tpl
+END
+016_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/016_parent.tpl
+END
+011_parent_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/011_parent_nested_include.tpl
+END
+026_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/templates/compileblockextends/026_parent.tpl
+END

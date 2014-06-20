@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit
+END
+SecurityTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/SecurityTests.php
+END
+DefaultConfigHandlerTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/DefaultConfigHandlerTests.php
+END
+CompileSetfilterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileSetfilterTests.php
+END
+TemplateExistsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/TemplateExistsTests.php
+END
+CompileSectionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileSectionTests.php
+END
+DoubleQuotedStringTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/DoubleQuotedStringTests.php
+END
+CacheResourceCustomRegisteredTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CacheResourceCustomRegisteredTests.php
+END
+PluginBlockTextformatTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginBlockTextformatTests.php
+END
+PluginModifierSpacifyTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierSpacifyTests.php
+END
+CompileFunctionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileFunctionTests.php
+END
+CompileBlockExtendsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileBlockExtendsTests.php
+END
+HttpModifiedSinceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/HttpModifiedSinceTests.php
+END
+RegisteredResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisteredResourceTests.php
+END
+GetTemplateVarsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/GetTemplateVarsTests.php
+END
+CompileIfTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileIfTests.php
+END
+ArrayTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ArrayTests.php
+END
+_phpunit-tests-coverage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests-coverage.sh
+END
+CompileForeachTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileForeachTests.php
+END
+CompileWhileTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileWhileTests.php
+END
+_runSingleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_runSingleTest.php
+END
+ExtendsResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ExtendsResourceTests.php
+END
+SmartyBcTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/SmartyBcTests.php
+END
+PluginModifierLowerTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierLowerTests.php
+END
+IndexedFileResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/IndexedFileResourceTests.php
+END
+PluginFunctionHtmlCheckboxesTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlCheckboxesTests.php
+END
+CoreTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CoreTests.php
+END
+PluginFunctionHtmlRadiosTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlRadiosTests.php
+END
+ClearAssignTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ClearAssignTests.php
+END
+ModifierTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ModifierTests.php
+END
+PluginModifierEscapeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierEscapeTests.php
+END
+RegisterModifierTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisterModifierTests.php
+END
+StreamResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/StreamResourceTests.php
+END
+PluginModifierWordwrapTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierWordwrapTests.php
+END
+AssignByRefTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AssignByRefTests.php
+END
+CompileCaptureTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileCaptureTests.php
+END
+CompileInsertTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileInsertTests.php
+END
+StringResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/StringResourceTests.php
+END
+GetterSetterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/GetterSetterTests.php
+END
+PluginModifierTruncateTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierTruncateTests.php
+END
+FunctionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/FunctionTests.php
+END
+_runDebugTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_runDebugTest.php
+END
+CompileDelimiterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileDelimiterTests.php
+END
+CompilerPluginTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompilerPluginTests.php
+END
+RegisterFunctionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisterFunctionTests.php
+END
+CompileAssignTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileAssignTests.php
+END
+PluginModifierCountSentencesTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierCountSentencesTests.php
+END
+CustomResourceAmbiguousTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CustomResourceAmbiguousTests.php
+END
+EvalResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/EvalResourceTests.php
+END
+SharedFunctionsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/SharedFunctionsTests.php
+END
+XmlTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/XmlTests.php
+END
+StreamVariableTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/StreamVariableTests.php
+END
+AttributeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AttributeTests.php
+END
+ClearCompiledTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ClearCompiledTests.php
+END
+CompileRegisteredObjectFunctionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileRegisteredObjectFunctionTests.php
+END
+ResourcePluginTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ResourcePluginTests.php
+END
+AppendTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AppendTests.php
+END
+CompileNocacheTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileNocacheTests.php
+END
+PluginChainedLoadTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginChainedLoadTests.php
+END
+ObjectVariableTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ObjectVariableTests.php
+END
+CompileFunctionPluginTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileFunctionPluginTests.php
+END
+DelimiterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/DelimiterTests.php
+END
+_phpunit-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests.sh
+END
+PluginModifierCharsetTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierCharsetTests.php
+END
+AutoEscapeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AutoEscapeTests.php
+END
+SingleQuotedStringTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/SingleQuotedStringTests.php
+END
+VariableVariableTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/VariableVariableTests.php
+END
+CacheResourceCustomMysqlTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CacheResourceCustomMysqlTests.php
+END
+_runDebugTest.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_runDebugTest.inc.php
+END
+StaticClassAccessTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/StaticClassAccessTests.php
+END
+PhpResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PhpResourceTests.php
+END
+RegisterBlockTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisterBlockTests.php
+END
+PluginModifierRegexReplaceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierRegexReplaceTests.php
+END
+_phpunit-tests-single.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests-single.sh
+END
+_phpunit-tests-coverage.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests-coverage.bat
+END
+PrintNocacheTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PrintNocacheTests.php
+END
+DefaultTemplateHandlerTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/DefaultTemplateHandlerTests.php
+END
+OutputFilterTrimWhitespaceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/OutputFilterTrimWhitespaceTests.php
+END
+ClearAllAssignTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ClearAllAssignTests.php
+END
+PluginFunctionHtmlSelectDateTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlSelectDateTests.php
+END
+_runTest.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_runTest.inc.php
+END
+CompileIncludeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileIncludeTests.php
+END
+CompileDebugTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileDebugTests.php
+END
+DefaultPluginHandlerTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/DefaultPluginHandlerTests.php
+END
+_phpunit-tests-single.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests-single.bat
+END
+CompileIncludePhpTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileIncludePhpTests.php
+END
+AssignGlobalTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AssignGlobalTests.php
+END
+ConstantsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ConstantsTests.php
+END
+coverage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/coverage.xml
+END
+_phpunit-tests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests.bat
+END
+PluginModifierCapitalizeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierCapitalizeTests.php
+END
+SpacingTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/SpacingTests.php
+END
+PluginModifierUpperTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierUpperTests.php
+END
+RegisterFilterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisterFilterTests.php
+END
+PluginFunctionHtmlImageTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlImageTests.php
+END
+AppendByRefTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AppendByRefTests.php
+END
+CompilePhpTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompilePhpTests.php
+END
+CompileEvalTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileEvalTests.php
+END
+CompileErrorTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileErrorTests.php
+END
+_phpunit-tests2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_phpunit-tests2.bat
+END
+PluginModifierCountWordsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierCountWordsTests.php
+END
+CompileStripTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileStripTests.php
+END
+PluginFunctionMailtoTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionMailtoTests.php
+END
+CacheResourceFileTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CacheResourceFileTests.php
+END
+VariableScopeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/VariableScopeTests.php
+END
+CompileBlockPluginTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileBlockPluginTests.php
+END
+AssignTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/AssignTests.php
+END
+TernaryTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/TernaryTests.php
+END
+LoadFilterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/LoadFilterTests.php
+END
+CommentsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CommentsTests.php
+END
+FileResourceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/FileResourceTests.php
+END
+CacheResourceCustomMemcacheTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CacheResourceCustomMemcacheTests.php
+END
+MathTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/MathTests.php
+END
+MuteExpectedErrorsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/MuteExpectedErrorsTests.php
+END
+_runAllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/_runAllTests.php
+END
+PluginModifierUnescapeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierUnescapeTests.php
+END
+CompileCompilerPluginTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileCompilerPluginTests.php
+END
+PluginFunctionHtmlSelectTimeTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlSelectTimeTests.php
+END
+ClearCacheTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ClearCacheTests.php
+END
+ConfigVarTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/ConfigVarTests.php
+END
+PluginFunctionFetchTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionFetchTests.php
+END
+CompileAppendTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileAppendTests.php
+END
+FilterTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/FilterTests.php
+END
+RegisterCompilerFunctionTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/RegisterCompilerFunctionTests.php
+END
+PluginModifierCountCharactersTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierCountCharactersTests.php
+END
+CacheResourceCustomApcTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CacheResourceCustomApcTests.php
+END
+LiteralTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/LiteralTests.php
+END
+PluginModifierStripTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginModifierStripTests.php
+END
+CompileForTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/CompileForTests.php
+END
+PluginFunctionHtmlOptionsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4839/tags/v3.1.18/development/PHPunit/PluginFunctionHtmlOptionsTests.php
+END
