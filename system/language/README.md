@@ -1,1 +1,0 @@
-file yang mengatur translasi user interface pengguna untuk core CMS diletakkan disini.

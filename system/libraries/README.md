@@ -1,1 +1,0 @@
-File librari Class php yang dibutuhkan oleh core CMS diletakkan disini.
